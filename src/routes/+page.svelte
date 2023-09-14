@@ -1,1 +1,10 @@
-<h1>Home</h1>
+<script>
+	import Hero from '$lib/components/Hero.svelte';
+</script>
+
+<section>
+	<Hero />
+</section>
+
+<style>
+</style>

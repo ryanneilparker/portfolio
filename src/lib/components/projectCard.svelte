@@ -11,9 +11,12 @@
 
 <main class="container">
 	<article>
-		<img class="gif" src={projectGif} alt="Placeholder logo." />
+		<div class="image-container">
+			<img class="gif" src={projectGif} alt="Placeholder logo." />
+		</div>
 
 		<h2>{projectName}</h2>
+
 		<p>{projectDescription}</p>
 
 		<footer class="tech-icons">
@@ -37,6 +40,12 @@
 </main>
 
 <style>
+	.image-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
 	.gif {
 		border-radius: 10%;
 	}

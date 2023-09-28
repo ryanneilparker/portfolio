@@ -1,7 +1,7 @@
 <footer class="container">
 	<nav>
 		<ul>
-			<li><strong>Ryan Neil Parker ❤️</strong></li>
+			<li><strong>&copy; 2023 Ryan Neil Parker ❤️</strong></li>
 		</ul>
 
 		<ul>

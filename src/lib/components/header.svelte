@@ -1,5 +1,6 @@
 <script>
 	import ProfileImage from '$lib/images/profile-image.png';
+	import GitHubIcon from '$lib/icons/github.svg';
 </script>
 
 <header class="container">
@@ -9,8 +10,10 @@
 		</header>
 
 		<section>
-			<h1>Ryan Neil Parker</h1>
-			<h6>Solutions Architect | Software Engineer | Web Designer</h6>
+			<hgroup>
+				<h1>Ryan Neil Parker</h1>
+				<h2>Solutions Architect | Software Engineer | Web Designer</h2>
+			</hgroup>
 		</section>
 
 		<section class="grid">

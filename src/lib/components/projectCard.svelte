@@ -52,6 +52,6 @@
 	}
 
 	.icon {
-		max-width: 100px;
+		max-width: 20%;
 	}
 </style>

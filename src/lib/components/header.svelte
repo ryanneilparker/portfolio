@@ -13,10 +13,11 @@
 			<h6>Solutions Architect | Software Engineer | Web Designer</h6>
 		</section>
 
-		<section class="social-bar">
+		<section class="grid">
 			<a href="https://github.com/ryanneilparker" role="button" class="outline">GitHub</a>
 			<a href="https://github.com/ryanneilparker" role="button" class="outline">Twitter</a>
 			<a href="https://github.com/ryanneilparker" role="button" class="outline">Youtube</a>
+			<a href="https://medium.com/@ryanneilparker" role="button" class="outline">Medium</a>
 		</section>
 
 		<footer>
@@ -28,6 +29,7 @@
 <style>
 	img {
 		border-radius: 50%;
+		height: auto;
 	}
 
 	.call-to-action {
